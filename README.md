@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/PedroSlv7/PedroSlv7/main/assets/banner.png" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=1000&lines=Pedro+Henrik;ADS+Student+at+IFPB;Learning+JavaScript+and+Python;Building+my+skills+every+day" />
+</p>
+
 # Olá, eu sou Pedro Henrik 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPB
