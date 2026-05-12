@@ -94,5 +94,5 @@ Sistema desenvolvido para automatizar e organizar o agendamento de laboratórios
 * Pedro Henrik
 * Gustavo Davi
 
-🔗 Repositório: https://github.com/PedroSlv7/LabReserve
+🔗 Repositório: [https://github.com/PedroSlv7/LabReserve](https://github.com/PedroSlv7/LabReserve-APS.git)
 
