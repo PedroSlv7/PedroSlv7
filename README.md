@@ -98,17 +98,9 @@ Sistema desenvolvido para automatizar e organizar o agendamento de laboratórios
 
 ---
 
-## 🛰️ Developer Status
+## 🌆 GitHub Skyline
 
-```bash
-> booting developer profile...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroSlv7/PedroSlv7/main/assets/skyline.png"/>
+</p>
 
-STATUS: ONLINE
-FOCUS: SOFTWARE DEVELOPMENT
-MODE: LEARNING & BUILDING
-STACK: JAVA | JAVAFX | PYTHON | JAVASCRIPT
-LOCATION: BRAZIL
-MISSION: BECOMING A BETTER DEVELOPER
-
-system.out.println("Hello, World!");
-```
