@@ -94,5 +94,21 @@ Sistema desenvolvido para automatizar e organizar o agendamento de laboratórios
 * Pedro Henrik
 * Gustavo Davi
 
-🔗 Repositório: [https://github.com/PedroSlv7/LabReserve](https://github.com/PedroSlv7/LabReserve-APS.git)
+🔗 [Acessar Repositório](SEU_LINK_AQUI)
 
+---
+
+## 🛰️ Developer Status
+
+```bash
+> booting developer profile...
+
+STATUS: ONLINE
+FOCUS: SOFTWARE DEVELOPMENT
+MODE: LEARNING & BUILDING
+STACK: JAVA | JAVAFX | PYTHON | JAVASCRIPT
+LOCATION: BRAZIL
+MISSION: BECOMING A BETTER DEVELOPER
+
+system.out.println("Hello, World!");
+```
