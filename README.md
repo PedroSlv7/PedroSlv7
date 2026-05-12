@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Pedro Henrik 👋
 
-<!--
-**PedroSlv7/PedroSlv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPB
+💻 Iniciante na área da programação e desenvolvendo minhas habilidades diariamente
+🚀 Atualmente estudando desenvolvimento de software e lógica de programação
 
-Here are some ideas to get you started:
+## 📚 Atualmente aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JavaScript
+* Python
+* Git e GitHub
+* Banco de Dados
+
+## 🎯 Objetivos
+
+* Evoluir como desenvolvedor
+* Criar projetos próprios
+* Contribuir com projetos open source
