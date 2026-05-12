@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: abozanona/pacman-contrib-readme@main
+      - uses: DenverCoder1/pacman-contribution-graph@main
         with:
           github_user_name: PedroSlv7
 
