@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/JavaFX-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF6B6B"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
@@ -65,3 +66,33 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=PedroSlv7&theme=tokyo-night&hide_border=true&bg_color=0D1117"
   />
 </p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🏫 LabReserve - Sistema de Agendamento de Laboratórios
+
+Sistema desenvolvido para automatizar e organizar o agendamento de laboratórios acadêmicos, evitando conflitos de horários e melhorando a gestão de reservas em instituições de ensino.
+
+### ⚡ Tecnologias utilizadas
+
+* Java 17
+* JavaFX
+* CSS3
+
+### 🔥 Funcionalidades
+
+* Cadastro de usuários e laboratórios
+* Reserva inteligente com validação de horários
+* Controle de status das reservas
+* Painel diário de reservas
+
+### 👥 Equipe
+
+* Denilson Rodrigues
+* Pedro Henrik
+* Gustavo Davi
+
+🔗 Repositório: https://github.com/PedroSlv7/LabReserve
+
