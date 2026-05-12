@@ -37,7 +37,7 @@
 * Criar projetos próprios
 * Contribuir com projetos open source
 
-  ---
+---
 
 ## 📊 Estatísticas GitHub
 
@@ -46,4 +46,3 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSlv7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
-
