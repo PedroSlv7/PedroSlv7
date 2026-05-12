@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" />
+</p>
+
 # Olá, eu sou Pedro Henrik 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPB
