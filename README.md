@@ -45,10 +45,9 @@
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSlv7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSlv7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSlv7&theme=tokyonight&hide_border=true&background=0D1117"
+  />
+</p>
