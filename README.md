@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" />
+  <img src="https://raw.githubusercontent.com/PedroSlv7/PedroSlv7/main/assets/banner.png" />
 </p>
 
 # Olá, eu sou Pedro Henrik 👋
@@ -46,7 +46,9 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSlv7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSlv7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSlv7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSlv7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9"/>
+
 </div>
