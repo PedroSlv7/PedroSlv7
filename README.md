@@ -63,6 +63,28 @@ Sistema para gerenciamento de reservas de laboratórios acadêmicos.
 
 ---
 
+## 🌐 Redes Sociais
+
+<p align="left">
+  <a href="https://github.com/PedroSlv7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-henrik-b7a691409/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+
+  <a href="https://www.instagram.com/pedroslv_7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+
+  <a href="mailto:henrikpedro14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
+
+---
+
 ## 🐍 Contributions
 
 <p align="center">
