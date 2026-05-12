@@ -101,5 +101,5 @@ Sistema desenvolvido para automatizar e organizar o agendamento de laboratórios
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PedroSlv7/PedroSlv7/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PedroSlv7/PedroSlv7/output/github-contribution-grid-snake.svg" />
 </p>
