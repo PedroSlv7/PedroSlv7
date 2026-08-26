@@ -83,6 +83,12 @@
 - Reservation status control
 - Daily reservation dashboard
 
+<p align="center">
+  <a href="https://github.com/PedroSlv7/LabReserve-APS">
+    <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
