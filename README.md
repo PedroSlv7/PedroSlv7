@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/pedroslv_7/">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-  <a href="mailto:henrikpedro14@gmail.com">
+  <a href="mailto:pedroslv.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
